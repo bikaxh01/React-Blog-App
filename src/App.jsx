@@ -1,8 +1,9 @@
 import './App.css'
 import conf from './conf/conf'
+import authservice from './appwrite/auth';
 
 function App() {
- console.log(conf);
+ 
 
   return (
     <>
