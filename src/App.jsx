@@ -3,7 +3,6 @@ import conf from './conf/conf'
 import authservice from './appwrite/auth';
 
 function App() {
- 
 
   return (
     <>
