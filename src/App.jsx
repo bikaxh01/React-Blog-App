@@ -35,7 +35,7 @@ function App() {
         <Footer />
       </div>
     </div>
-  ) : <div>not loading</div>
+  ) : <div>loading</div>
 }
 
 export default App
